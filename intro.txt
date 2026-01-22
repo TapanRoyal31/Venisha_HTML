@@ -1,0 +1,30 @@
+HTML :- Hyper Text Markup Language
+
+HTML Main usecase website Development / webpage Development
+
+Webpage : Basic HTML Structure
+
+Website : collection of webpages
+Website Example :- Amazon , Flipkart
+
+Website Development Languages : 
+    HTML - Basic Structure
+    CSS - Web Design , Animation
+    JavaScript - Logic Handle 
+
+
+<html></html> - Starting of html page
+<head></head> - Head of webpage
+<body></body> - body of webpage where all the content are mentioned
+<title></title> - Give proper title to your website page
+<p></p> - Write paragraph in webpage
+
+
+h1 - h6 :- Size decrease
+
+    Seo Priority depend 
+    h1 priority up - h6 priority down
+
+
+br :- break rule
+hr :- horizontal rule
