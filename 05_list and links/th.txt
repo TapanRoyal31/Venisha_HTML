@@ -1,0 +1,10 @@
+1) Unorder list :- order dosn't matter
+2) order list :- order matter 
+
+unorder list :- ul --> li(list items)  
+order list :- ol --> li(list items)
+
+
+unorder list :- Disc , circle and square
+
+order list :- number,alphabet and roman_number
