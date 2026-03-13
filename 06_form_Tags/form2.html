@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <h2>Student Practice form</h2>
+    <fieldset>
+        <legend>Basic Information</legend>
+        <form action="">
+            <label for="fullname">Full Name:</label>
+            <br>
+            <input type="text" name="fullname" id="fullname" placeholder="Enter your full name">
+            <br>
+            <br>
+            <label for="email">Email :</label>
+            <br>
+            <input type="email" id="email" placeholder="Enter your email">
+            <br>
+            <br>
+            <label for="pass">Password:</label>
+            <br>
+            <input type="password" id="pass" placeholder="Enter your password">
+            <br>
+            <br>
+            <label for="course">Select Course:</label>
+            <br>
+            <select name="course" id="course">
+                    <option value="course">--Choose Course--</option>
+                    <option value="HTML">HTML</option>
+                    <option value="CSS">CSS</option>
+                    <option value="JS">JS</option>
+            </select>
+            <br><br>
+            <label for="mode">Learning mode:</label>
+            <br>
+            <input type="radio" name="mode" id="online">
+            <label for="online">Online</label>
+            <input type="radio" name="mode" id="offline">
+            <label for="offline">Offline</label>
+            <br><br>
+            <input type="checkbox" name="terms" id="terms">
+            <label for="terms">I agree to the term & conditions</label>
+            <br><br>
+            <input type="submit" value="submit">
+            <input type="reset" value="reset">
+        </form>
+
+    </fieldset>
+</body>
+</html>
